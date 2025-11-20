@@ -4,6 +4,7 @@ build/
 *.log
 coverage/
 .env*
+.npmrc
 
 # VitePress
 docs/.vitepress/dist
