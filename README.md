@@ -19,6 +19,8 @@
 
 </div>
 
+> **基于原项目**: 此项目基于 [pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) 修改而来
+
 ---
 
 ## 🚀 Overview
