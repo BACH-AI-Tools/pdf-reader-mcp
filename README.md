@@ -125,7 +125,7 @@ Add to your MCP client (`claude_desktop_config.json`, Cursor, Cline):
   "mcpServers": {
     "pdf-reader-mcp": {
       "command": "npx",
-      "args": ["@sylphx/pdf-reader-mcp"]
+      "args": ["@bachstudio/pdf-reader-mcp"]
     }
   }
 }
